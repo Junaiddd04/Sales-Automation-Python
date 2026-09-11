@@ -1,0 +1,37 @@
+2026-09-11 09:50:14,536 - INFO - Automation Started
+2026-09-11 09:50:14,537 - INFO - CSV file loaded
+2026-09-11 09:50:14,568 - INFO - pandas DataFrame Created
+2026-09-11 09:50:14,571 - INFO - Columns name standerdized and data has been sorted
+2026-09-11 09:50:14,589 - INFO - Missing values filled
+2026-09-11 09:50:14,591 - INFO - Duplicate values removed
+2026-09-11 09:50:14,602 - INFO - New columns created
+2026-09-11 09:50:14,611 - INFO - Summary data created
+2026-09-11 09:50:14,615 - INFO - Workbook created with all worksheets
+2026-09-11 09:50:14,679 - INFO - Dataframes has been processed to Excel
+2026-09-11 09:50:14,689 - INFO - Headers converted to bold and color has been changed
+2026-09-11 09:50:14,689 - INFO - Filter buttons activated
+2026-09-11 09:50:14,693 - INFO - Column width auto adjusted
+2026-09-11 09:50:14,693 - INFO - First row freezed
+2026-09-11 09:50:14,694 - INFO - Headers converted to bold and color has been changed
+2026-09-11 09:50:14,694 - INFO - Filter buttons activated
+2026-09-11 09:50:14,694 - INFO - Column width auto adjusted
+2026-09-11 09:50:14,694 - INFO - First row freezed
+2026-09-11 09:50:14,694 - INFO - Headers converted to bold and color has been changed
+2026-09-11 09:50:14,694 - INFO - Filter buttons activated
+2026-09-11 09:50:14,695 - INFO - Column width auto adjusted
+2026-09-11 09:50:14,695 - INFO - First row freezed
+2026-09-11 09:50:14,695 - INFO - Headers converted to bold and color has been changed
+2026-09-11 09:50:14,695 - INFO - Filter buttons activated
+2026-09-11 09:50:14,695 - INFO - Column width auto adjusted
+2026-09-11 09:50:14,695 - INFO - First row freezed
+2026-09-11 09:50:14,696 - INFO - Headers converted to bold and color has been changed
+2026-09-11 09:50:14,696 - INFO - Filter buttons activated
+2026-09-11 09:50:14,696 - INFO - Column width auto adjusted
+2026-09-11 09:50:14,696 - INFO - First row freezed
+2026-09-11 09:50:14,696 - INFO - Excel formatting done on all sheets
+2026-09-11 09:50:14,697 - INFO - data bar added to the B column
+2026-09-11 09:50:14,700 - INFO - Charts has been added to the summary sheets
+2026-09-11 09:50:14,967 - INFO - File has been saved to the Output folder
+2026-09-11 09:50:14,969 - INFO - Raw data has been moved to Archive folder
+2026-09-11 09:50:23,872 - INFO - Final report sent to the Receiver
+2026-09-11 09:50:24,228 - INFO - Automation Completed
